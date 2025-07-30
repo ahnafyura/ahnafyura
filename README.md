@@ -28,3 +28,13 @@ I am a Computer Engineering student passionate about technology and innovation. 
 [![](https://visitcount.itsvg.in/api?id=ahnafyura&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h2 align="left">Let's Play Game Guys</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/pacman-contribution-graph.svg">
+</picture>
