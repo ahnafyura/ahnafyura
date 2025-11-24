@@ -66,7 +66,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ahnafyura&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   </a>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahnafyura&theme=tokyonight&hide_border=false" width="97%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ahnafyura&theme=tokyonight&hide_border=false" width="90%" />
 </div>
 
 
