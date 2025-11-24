@@ -42,7 +42,19 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahnafcx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AhnafAhtasyafi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahnafforyou@gmail.com) 
 
-![pokemon](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4wY29sMGVqcHU2ZzljbWFjb3ptYWc3bno3cjZvdGJjOHFkaDIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3> Neo4j Graph </h3>
+      <img src="img/vid1.gif" alt="Neo4j Graph Visualization" width="100%" style="border-radius: 5px;">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📟 GRAFANA CLI Dashboard</h3>
+      <p><b>Command-Line Pipeline Orchestrator</b></p>
+      <img src="img/vid2.gif" alt="GRAFANA CLI Interface" width="100%" style="border-radius: 5px;">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
