@@ -49,7 +49,6 @@
       <img src="img/vid1.gif" alt="Neo4j Graph Visualization" width="100%" style="border-radius: 5px;">
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>📟 GRAFANA CLI Dashboard</h3>
       <p><b>Command-Line Pipeline Orchestrator</b></p>
       <img src="img/vid2.gif" alt="GRAFANA CLI Interface" width="100%" style="border-radius: 5px;">
     </td>
