@@ -44,7 +44,7 @@
 
 ![pokemon](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4wY29sMGVqcHU2ZzljbWFjb3ptYWc3bno3cjZvdGJjOHFkaDIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif)
 
-<div align="left">
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafyura&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
