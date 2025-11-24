@@ -60,7 +60,7 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <a href="https://github.com/ahnafyura">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafyura&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40.3%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafyura&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40.1%" />
   </a>
   <a href="https://github.com/ahnafyura">
     <img src="https://github-readme-stats.vercel.app/api?username=ahnafyura&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
