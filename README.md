@@ -49,7 +49,7 @@
       <img src="img/vid1.gif" alt="Neo4j Graph Visualization" width="100%" style="border-radius: 5px;">
     </td>
     <td width="50%" align="center" valign="top">
-      <p><b>Command-Line Pipeline Orchestrator</b></p>
+      <h3> Command-Line Pipeline Orchestrator </h3>
       <img src="img/vid2.gif" alt="GRAFANA CLI Interface" width="100%" style="border-radius: 5px;">
     </td>
   </tr>
@@ -72,6 +72,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ahnafyura&icon=1&color=1)](https://visitcount.itsvg.in)
 
+<br />
+<hr />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
