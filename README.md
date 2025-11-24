@@ -89,3 +89,8 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
+
+<div align="center">
+  <h3>🧩 Activity Overview</h3>
+  <img src="https://github.com/ahnafyura/ahnafyura/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+</div>
