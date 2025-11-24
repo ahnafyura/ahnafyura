@@ -72,4 +72,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ahnafyura&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahnafyura/ahnafyura/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
