@@ -23,7 +23,7 @@
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+a+Passionate+Developer;Into+Web3,+AI,+and+Frond-End" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+a+Passionate+Developer;Into+Web3,+AI,+and+Full Stack" alt="Typing SVG" />
 </div>
 
 <p align="center">
