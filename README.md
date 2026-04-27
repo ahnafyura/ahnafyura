@@ -54,13 +54,11 @@
 
 ---
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ahnafyura&theme=dark&hide_border=false&include_all_commits=false&count_private=true&v=1)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahnafyura&theme=dark&hide_border=false&v=1)
+![](https://github-readme-stats.vercel.app/api?username=ahnafyura&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahnafyura&theme=dark&hide_border=false)
 
 ## GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ahnafyura&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&v=1)
+![](https://github-trophies.vercel.app/?username=ahnafyura&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahnafyura&icon=1&color=1)](https://visitcount.itsvg.in)
