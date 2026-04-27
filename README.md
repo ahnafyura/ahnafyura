@@ -56,7 +56,8 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ahnafyura&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ahnafyura&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahnafyura&theme=dark&hide_border=false)
 
 ## GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=AneKazek&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
