@@ -56,10 +56,7 @@
 
 <div align="center">
 
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=AneKazek&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=AneKazek&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ## GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=AneKazek&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
