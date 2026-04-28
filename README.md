@@ -1,4 +1,3 @@
- 
 <div align="center">
  
 <table style="border: none; margin: 0 auto; padding: 0; border-collapse: collapse;">
@@ -54,11 +53,11 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=ahnafyura&theme=dark&hide_border=false&include_all_commits=false&count_private=true&v=1)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahnafyura&theme=dark&hide_border=false&v=1)
+![](https://github-readme-stats.vercel.app/api?username=ahnafyura&theme=dark&hide_border=false&include_all_commits=false&count_private=true&v=2)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahnafyura&theme=dark&hide_border=false&v=2)
 
 ## GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ahnafyura&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&v=1)
+![](https://github-trophies.vercel.app/?username=ahnafyura&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&v=2)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahnafyura&icon=1&color=1)](https://visitcount.itsvg.in)
